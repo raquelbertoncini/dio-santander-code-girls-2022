@@ -1,0 +1,17 @@
+Comandos básicos aprendidos:
+ls - listar
+cd - 
+cd .. - retroceder
+clear - limpar terminal
+mkdir - criar diretório/pasta
+del - deletar arquivos
+rm -rf - deletar  o repo inteiro
+ls -a - mostra arquivos ocultos
+git add <nome do arquivo> - adiciona arquivo
+git add * ou git add . - adiciona tudo
+git status - mostra o status
+mv - move arquivo
+git clone - copia repositório (início)
+git pull - atualiza possíveis arquivos modificados do repositório que já tenha feito git clone
+git commit -m "<mensagem>" - comita o arquivo
+git push - "empurra" para servidor remoto (GitHub)
